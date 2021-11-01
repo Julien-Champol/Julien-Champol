@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julien-Champol
 - 👀 I’m interested in life sipmlifying computer science 
-- 🌱 I’m currently learning Java and C# 
+- 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me : email address.
 
