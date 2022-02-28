@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Julien-Champol
-- 👀 I’m interested in frontend dev
+- 👀 I’m interested in fullstack dev in Java and JS
 - 🌱 I’m currently learning frontend dev
-- 💞️ I’m looking to collaborate on frontend dev
 - 📫 How to reach me : julien.champol@gmail.com.
 
 (Did I mentioned frontend dev ?)
