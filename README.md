@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Julien-Champol
-- 👀 I’m interested in fullstack dev in Java and JS
+- 👀 I’m interested in philosophy and coding
+- I'm actually working for SQLI as a Java and AngularJS developper
 - 🌱 I’m currently learning frontend dev
 - 📫 How to reach me : julien.champol@gmail.com.
 
