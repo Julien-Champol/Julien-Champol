@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Julien-Champol
-- 👀 I’m interested in philosophy and algorithmics
-- I'm actually working for SQLI as a Java and AngularJS developper
-- 🌱 I’m currently learning Angular
-- 📫 How to reach me : julien.champol@ikmail.com.
+- 👀 I’m interested in management and software quality.
+- I'm actually working for SQLI as a Java and Angular developper.
+- 🌱 I’m currently learning C at Enseirb-Matmeca. 
+- 📫 How to reach me : jchampol@bordeaux-inp.fr.
 
 <!---
 Julien-Champol/Julien-Champol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
